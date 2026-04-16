@@ -1,4 +1,5 @@
-# DidacMaymoThesis
+# HandAQUS-Multimodal-Framework
+DidacMaymoThesis
 
 Bachelor thesis of Didac Maymo, supervised by MFZBCN at Tecnocampus in 2022.  
 This repository is a copy of the original GitHub repository:  
