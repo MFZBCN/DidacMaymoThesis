@@ -49,6 +49,11 @@ According to the paper, HandAQUS stores the acquisition session in a structured 
 
 The paper specifies that the framework was designed as a Windows-based environment integrating Tobii Pro Glasses 3 and Wacom Cintiq 16 for synchronized handwriting and gaze acquisition. :contentReference[oaicite:3]{index=3}
 
+## Software archive
+
+This software has been archived in Zenodo and can be cited using the following DOI:
+**DOI:** [10.5281/zenodo.19617252](https://doi.org/10.5281/zenodo.19617252)
+
 ## Software origin and acknowledgements
 
 This project was developed from a previously existing application called **HandAQUS**, which originally permitted acquisition from a Wacom Cintiq graphic tablet. Starting from that point, numerous new requirements were added, especially support for eye-tracking acquisition, synchronization, metadata handling, and visualization.
