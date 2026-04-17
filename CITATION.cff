@@ -1,10 +1,33 @@
-## Citation
-
-If you use this framework in academic work, please cite the associated article as the primary reference:
-
-D. Maymó-Calatayud, A. Monaco, J. Lopez-Xarbau, and M. Faundez-Zanuy,
-"HandAQUS: A Multimodal Acquisition and Synchronization Framework for Handwriting and Gaze Signals."
-  WIRN'2026, Vietri sul Mare (Salerno, Italy) 9th-13th June 2026
-
-The software archive is additionally available in Zenodo:
-DOI: 10.5281/zenodo.19617252
+cff-version: 1.2.0
+message: "If you use this framework in academic work, please cite the associated article as the primary scientific reference."
+title: "HandAQUS and AlignData"
+type: software
+authors:
+  - family-names: "Maymó-Calatayud"
+    given-names: "Dídac"
+  - family-names: "Monaco"
+    given-names: "Alessia"
+  - family-names: "Lopez-Xarbau"
+    given-names: "Josep"
+  - family-names: "Faundez-Zanuy"
+    given-names: "Marcos"
+repository-code: "https://github.com/MFZBCN/HandAQUS-Multimodal-Framework"
+license: "MIT"
+doi: "10.5281/zenodo.19617252"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Maymó-Calatayud"
+      given-names: "Dídac"
+    - family-names: "Monaco"
+      given-names: "Alessia"
+    - family-names: "Lopez-Xarbau"
+      given-names: "Josep"
+    - family-names: "Faundez-Zanuy"
+      given-names: "Marcos"
+  title: "HandAQUS: A Multimodal Acquisition and Synchronization Framework for Handwriting and Gaze Signals"
+  conference:
+    name: "WIRN 2026"
+    location: "Vietri sul Mare (Salerno, Italy)"
+    start: "2026-06-09"
+    end: "2026-06-13"
